@@ -39,7 +39,7 @@
         android:layout_height="95dp"
         android:gravity="center"
         android:text="@string/default_text"
-        android:textSize="50sp"
+        android:textSize="45sp"
         app:layout_constraintBottom_toTopOf="@+id/button1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
